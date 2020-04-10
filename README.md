@@ -1,6 +1,8 @@
 # Nerf Disruptor Replica
 This repository contains all of the files, assemblies, pictures, and documents from a group project where we reverse engineered a Nerf gun.
 
+![alt text](https://github.com/DroTron/Nerf-Disruptor-Replica/blob/master/Pictures/FullAssembly.JPG)
+
 ## Notes
 
 #### Uses
