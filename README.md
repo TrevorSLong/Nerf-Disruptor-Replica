@@ -1,7 +1,7 @@
 # Nerf Disruptor Replica
 This repository contains all of the files, assemblies, pictures, and documents from a group project where we reverse engineered a Nerf gun.
 
-![alt text](https://github.com/DroTron/Nerf-Disruptor-Replica/blob/master/Pictures/FullAssembly.JPG)
+![alt text](https://github.com/TrevorSLong/Nerf-Disruptor-Replica/blob/master/Pictures/FullAssembly.JPG)
 
 ## Notes
 
@@ -13,8 +13,8 @@ This repository contains all of the files, assemblies, pictures, and documents f
    * The model does not fit together perfectly, if 3D printed, don't expect it to fit and work without modification. Its close, not perfect. 
    
 # Git Command
-`git clone https://github.com/DroTron/Nerf-Disruptor-Replica`
+`git clone https://github.com/TrevorSLong/Nerf-Disruptor-Replica`
 *  Clones entire repository
 *  add `~/FOLDER/SUBFOLDER` after PROGRAM.m to clone to specific folder
-   * Ex: `git clone https://github.com/DroTron/Nerf-Disruptor-Replica ~/DroTronNerfGun`
-   * to clone repository to a folder in home named DroTronNerfGun
+   * Ex: `git clone https://github.com/TrevorSLong/Nerf-Disruptor-Replica ~/TrevorSLongNerfGun`
+   * to clone repository to a folder in home named TrevorSLongNerfGun
